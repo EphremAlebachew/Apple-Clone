@@ -1,0 +1,74 @@
+.model21, .model22, .model23{
+    font-size: 25px;
+    font-weight: 600;
+    
+    color: white;
+  }
+  .model21{
+    padding-top: 5px;
+    margin-left: 1%;
+  }
+  .model24, .model26{
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+  }
+  .model28 {
+    /* padding-left: 40px; */
+    font-size: 15px;
+   }
+  .model29 {
+    /* padding-left: 20px; */
+    font-size: 15px;
+   }
+  .model28 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  .model29 a:after{
+      font-family: "FontAwesome";
+        font-weight: 100;
+        content: "\f105";
+        padding-left: 12px
+      }
+  .model27{
+    
+      background-image: url(../../../commonResource/images/icons/promo_bhm__d8b9z5rlwjgy_large.jpg);
+      background-repeat: no-repeat;
+    background-position: bottom center ;
+    background-size: auto 500px;
+    height: 500px;
+     width: 100%; 
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    }
+    .model30, .model31{
+        font-size: 15px;
+        font-weight: 600;
+        color: white;
+        
+} 
+ .model30{
+  padding-top: 380px;
+  
+}
+  .model34 { 
+  padding-left: 40px;
+  font-size: 15px;
+
+ } 
+ .model35{
+
+background-image: url(../../../commonResource//images//icons/promo_timothee_chalamet__ci3sco7rkmoi_large.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: auto 500px;
+  height: 500px;
+ width: 100%;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+ 
+ }

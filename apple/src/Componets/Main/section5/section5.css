@@ -1,0 +1,67 @@
+.model37{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 20px; 
+  }
+  .model38{
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .model39{
+    font-size: 12px;
+    font-weight: 600;
+  }
+  .model39 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 12px
+    }
+  .model40{
+  
+    background-image: url(../../../commonResource//images/icons/promo_valentines_day_2023__duffhlmdxcqe_large.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: auto 500px;
+    height: 500px;
+  width: 100%;
+    
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+   
+  }
+  .model42{
+    font-size: 20px;
+    font-weight: 600; 
+  }
+  .model43{
+    font-size: 20px;
+    font-weight: 600; 
+  }
+  .model47{
+    padding-left: 40px;
+    font-size: 15px;
+   }
+   
+  .model44 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  .model41{
+      padding-top: 30px;
+    }
+  .model46{
+    
+      background-image: url(../../../commonResource//images//icons//promo-apple-fitness-plus-iphone__bzeal882mv7m_large.jpg);
+      background-repeat: no-repeat;
+      background-position: top;
+      background-size: auto 600px;
+      height: 500px;
+      width: 100%;
+     
+      border-top: 2px solid #fff;
+      border-bottom: 2px solid #fff;
+    }

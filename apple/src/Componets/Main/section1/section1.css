@@ -1,0 +1,49 @@
+.model1 {
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 0.08px;
+  }
+  .model2 {
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    letter-spacing: 0.08px;
+  }
+  .model5{
+    background-image: url(../images/home/hero_iphone14pro__e5xbgo5ffhg2_largetall.jpg);
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 500px;
+    height: 500px;
+    width: 100%;
+    border-top: 2px solid #fff;
+    
+    
+  }
+  
+  
+  .model3{
+    /* padding-left: 40px; */
+    font-size: 15px;
+  
+  }
+  .model4{
+    /* padding-left: 20px; */
+    font-size: 15px;
+  }
+  .model3 a:after{
+  font-family: "FontAwesome";
+    font-weight: 100;
+    content: "\f105";
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .model4 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px
+    }
+  

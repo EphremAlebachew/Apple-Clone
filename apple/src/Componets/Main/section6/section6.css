@@ -1,0 +1,77 @@
+.model48{
+    padding-top: 20px;
+     
+  }
+    .model49{
+    font-size: 20px;
+    font-weight: 600;
+  }
+    .model50{
+    font-size: 20px;
+    font-weight: 600;
+  }
+    .model53{
+    padding-left: 40px;
+    font-size: 15px;
+   }
+    .model52 {
+    padding-left: 20px;
+    font-size: 15px;
+   }
+    .model51 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px;
+      padding-right: 10px; 
+    }
+    .model52 a:after{
+      font-family: "FontAwesome";
+        font-weight: 100;
+        content: "\f105";
+        padding-left: 10px
+      } 
+    .model54{
+     
+      background-image: url(../../../commonResource//images//icons/tile__cauwwcyyn9hy_large.jpg);
+      background-position: top;
+      background-size: auto 500px;
+      height: 500px;
+     
+      border-top: 2px solid #fff;
+      border-bottom: 2px solid #fff;
+     }
+  /* tab */
+  .model62{
+    font-size:25px ;
+    font-weight:700 ;
+  }
+  .model63{
+    font-size:15px ;
+    font-weight:500 ;
+  }
+  .model64{
+    font-size:15px ;
+    font-weight:500 ;
+  }
+  .model65 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 12px
+    }
+    .model61{
+      /* background-image: url(../images/home/new-ipad.jpg); */
+      background-image: url(../../../commonResource/images/home/new-ipad.jpg);
+      background-position:bottom ;
+      background-repeat: no-repeat;
+      background-size: auto 500px;
+      height: 500px;
+     width: 100%;
+      border-top: 2px solid #fff;
+      border-bottom: 2px solid #fff;
+    }
+    .model27{
+      -ms-grid-column-align: 1%;
+    }
+  

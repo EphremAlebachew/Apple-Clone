@@ -1,0 +1,84 @@
+.model11{
+  font-size: 35px;
+  font-weight: 550;
+  color: #fff;
+ 
+  
+}
+.model12{
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
+.model13{
+  padding-left: 40px;
+  font-size: 15px;
+}
+.model14{
+  padding-left: 20px;
+  font-size: 15px;
+}
+.model15{
+  
+  background-image: url(../../../commonResource//images//home//hero_homepod__fnwfsi8ride2_largetall.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto 550px;
+  height: 500px;
+  width: 100%
+  ;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  
+}
+
+.model13 a:after{
+  font-family: "FontAwesome";
+    font-weight: 100;
+    content: "\f105";
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .model14 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px
+    }
+    /* watch */
+    .model17{ 
+    color: #fff;
+   }  
+   .model18{
+    /* padding-left: 50px; */
+  font-size: 15px;
+   }
+   .model19{
+    padding-left: 20px;
+    font-size: 15px;
+   }
+   .model18 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px;
+      padding-right: 10px;
+
+    }
+    .model19 a:after{
+      font-family: "FontAwesome";
+        font-weight: 100;
+        content: "\f105";
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+      .model20{
+        background-image: url(../../../commonResource//images//icons/promo_apple_watch_series_8__ch7rexplmihe_large.jpg);
+        background-repeat: no-repeat;
+        background-position: bottom center;
+        background-size: auto 500px;
+        height: 500px;
+       width: 100%;
+        border-top: 2px solid #fff;
+        border-bottom: 2px solid #fff;
+      }

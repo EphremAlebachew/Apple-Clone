@@ -1,0 +1,620 @@
+/* General Styling*/
+body {
+    font-family: "Montserrat", sans-serif;
+  }
+  a {
+    color: #06c;
+  }
+  img {
+    max-width: 100%;
+  }
+  .white {
+    color: #fff;
+  }
+  .black {
+    color: #1d1d1f;
+  }
+  .grey {
+    color: #86868b;
+  }
+  .top-50 {
+    margin-top: 50px;
+  }
+  .top-100 {
+    margin-top: 100px;
+  }
+  /* Header Style */
+  .nav-wrapper {
+    background: rgba(0, 0, 0, 0.8);
+    font-size: 0.85em;
+    font-weight: 200;
+  }
+  .nav-wrapper ul li a {
+    color: #fff;
+  }
+  .navbar-toggler {
+    color: #fff;
+  }
+  .nav-item {
+    text-align: left !important;
+    padding: 4px 0;
+    border-bottom: 1px solid #4b4b4b;
+  }
+  
+  
+  
+  /* iphone14 pro */
+  .model1 {
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 0.08px;
+  }
+  .model2 {
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    letter-spacing: 0.08px;
+  }
+  .model5{
+    background-image: url(../images/home/hero_iphone14pro__e5xbgo5ffhg2_largetall.jpg);
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 500px;
+    height: 500px;
+    width: 100%;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    
+  }
+  .model3{
+    /* padding-left: 40px; */
+    font-size: 15px;
+  
+  }
+  .model4{
+    /* padding-left: 20px; */
+    font-size: 15px;
+  }
+  .model3 a:after{
+  font-family: "FontAwesome";
+    font-weight: 100;
+    content: "\f105";
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .model4 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px
+    }
+  .model10{
+    background-image: url(../images/home/store-card-40-iphone-14-202209_GEO_US.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 450px;
+    height: 480px;
+    width: 100%;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+  }
+  .model6{
+    font-size: 40px;
+    font-weight: 600;
+   
+    
+  }
+  .model7{
+    font-size: 20px;
+    font-weight: 400;
+    
+    
+  }
+  .model8{
+    /* padding-left: 40px; */
+    font-size: 15px;
+  }
+  .model9{
+    /* padding-left: 20px; */
+    font-size: 15px;
+  }
+  .model8 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 12px;
+      padding-right: 8px;
+    }
+    .model9 a:after{
+      font-family: "FontAwesome";
+        font-weight: 100;
+        content: "\f105";
+        padding-left: 12px
+      }
+  /* homepod */
+  .model11{
+    font-size: 35px;
+    font-weight: 550;
+    color: #fff;
+   
+    
+  }
+  .model12{
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+  }
+  .model13{
+    padding-left: 40px;
+    font-size: 15px;
+  }
+  .model14{
+    padding-left: 20px;
+    font-size: 15px;
+  }
+  .model15{
+    background-image: url(../images/home/hero_homepod__fnwfsi8ride2_largetall.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 550px;
+    height: 500px;
+    width: 100%
+    ;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    
+  }
+  
+  .model13 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .model14 a:after{
+      font-family: "FontAwesome";
+        font-weight: 100;
+        content: "\f105";
+        padding-left: 10px
+      }
+      /* watch */
+      .model17{ 
+      color: #fff;
+     }  
+     .model18{
+      /* padding-left: 50px; */
+    font-size: 15px;
+     }
+     .model19{
+      padding-left: 20px;
+      font-size: 15px;
+     }
+     .model18 a:after{
+      font-family: "FontAwesome";
+        font-weight: 100;
+        content: "\f105";
+        padding-left: 10px;
+        padding-right: 10px;
+  
+      }
+      .model19 a:after{
+        font-family: "FontAwesome";
+          font-weight: 100;
+          content: "\f105";
+          padding-left: 10px;
+          padding-right: 10px;
+        }
+        .model20{
+          background-image: url(../images/icons/promo_apple_watch_series_8__ch7rexplmihe_large.jpg);
+          background-repeat: no-repeat;
+          background-position: bottom center;
+          background-size: auto 500px;
+          height: 500px;
+         width: 100%;
+          border-top: 2px solid #fff;
+          border-bottom: 2px solid #fff;
+             
+         
+          
+        }
+  
+        /* green watch */
+  
+        .model21, .model22, .model23{
+          font-size: 25px;
+          font-weight: 600;
+          
+          color: white;
+        }
+        .model21{
+          padding-top: 5px;
+          margin-left: 1%;
+        }
+        .model24, .model26{
+          font-size: 15px;
+          font-weight: 600;
+          color: white;
+        }
+        .model28 {
+          /* padding-left: 40px; */
+          font-size: 15px;
+         }
+        .model29 {
+          /* padding-left: 20px; */
+          font-size: 15px;
+         }
+        .model28 a:after{
+          font-family: "FontAwesome";
+            font-weight: 100;
+            content: "\f105";
+            padding-left: 10px;
+            padding-right: 10px;
+          }
+        .model29 a:after{
+            font-family: "FontAwesome";
+              font-weight: 100;
+              content: "\f105";
+              padding-left: 12px
+            }
+        .model27{
+            background-image: url(../images/icons/promo_bhm__d8b9z5rlwjgy_large.jpg);
+            background-repeat: no-repeat;
+          background-position: bottom center ;
+          background-size: auto 500px;
+          height: 500px;
+           width: 100%; 
+          border-top: 2px solid #fff;
+          border-bottom: 2px solid #fff;
+         
+         
+          
+        
+          }
+  
+          /* the man */
+  .model30, .model31{
+          font-size: 15px;
+          font-weight: 600;
+          color: white;
+          
+  } 
+        .model30{
+    padding-top: 380px;
+    
+  }
+              .model34 { 
+    padding-left: 40px;
+    font-size: 15px;
+  
+   } 
+                    .model35{
+    background-image: url(../images/icons/promo_timothee_chalamet__ci3sco7rkmoi_large.jpg);background-repeat: no-repeat;
+    background-position: top;
+    background-size: auto 500px;
+    height: 500px;
+   width: 100%;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+   
+   }
+  /* valantine */
+  
+  .model37{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 20px; 
+  }
+  .model38{
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .model39{
+    font-size: 12px;
+    font-weight: 600;
+  }
+  .model39 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 12px
+    }
+  .model40{
+    background-image: url(../images/icons/promo_valentines_day_2023__duffhlmdxcqe_large.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: auto 500px;
+    height: 500px;
+  width: 100%;
+    
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+   
+  }
+  /* iphone */
+  .model42{
+    font-size: 20px;
+    font-weight: 600; 
+  }
+  .model43{
+    font-size: 20px;
+    font-weight: 600; 
+  }
+  .model47{
+    padding-left: 40px;
+    font-size: 15px;
+   }
+   
+  .model44 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  .model41{
+      padding-top: 30px;
+    }
+  .model46{
+      background-image: url(../images/icons/promo-apple-fitness-plus-iphone__bzeal882mv7m_large.jpg);
+      background-repeat: no-repeat;
+      background-position: top;
+      background-size: auto 600px;
+      height: 500px;
+      width: 100%;
+     
+      border-top: 2px solid #fff;
+      border-bottom: 2px solid #fff;
+    }
+  /* card */
+    .model48{
+    padding-top: 20px;
+     
+  }
+    .model49{
+    font-size: 20px;
+    font-weight: 600;
+  }
+    .model50{
+    font-size: 20px;
+    font-weight: 600;
+  }
+    .model53{
+    padding-left: 40px;
+    font-size: 15px;
+   }
+    .model52 {
+    padding-left: 20px;
+    font-size: 15px;
+   }
+    .model51 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 10px;
+      padding-right: 10px; 
+    }
+    .model52 a:after{
+      font-family: "FontAwesome";
+        font-weight: 100;
+        content: "\f105";
+        padding-left: 10px
+      } 
+    .model54{
+      background-image: url(../images/icons/tile__cauwwcyyn9hy_large.jpg);
+      background-position: top;
+      background-size: auto 500px;
+      height: 500px;
+     
+      border-top: 2px solid #fff;
+      border-bottom: 2px solid #fff;
+     
+     }
+  /* tab */
+  .model62{
+    font-size:25px ;
+    font-weight:700 ;
+  }
+  .model63{
+    font-size:15px ;
+    font-weight:500 ;
+  }
+  .model64{
+    font-size:15px ;
+    font-weight:500 ;
+  }
+  .model65 a:after{
+    font-family: "FontAwesome";
+      font-weight: 100;
+      content: "\f105";
+      padding-left: 12px
+    }
+    .model61{
+      background-image: url(../images/home/new-ipad.jpg);
+      background-position:bottom ;
+      background-repeat: no-repeat;
+      background-size: auto 500px;
+      height: 500px;
+     width: 100%;
+      border-top: 2px solid #fff;
+      border-bottom: 2px solid #fff;
+    }
+    .model27{
+      -ms-grid-column-align: 1%;
+    }
+  
+  @media (min-width:760px ){
+   
+    .row {
+      
+      margin-right: 0;
+      margin-left: 0;
+    }
+    .model13{
+      padding-left: 0;
+    
+     }
+     
+     .model28{
+      padding-left: 0;
+      
+    }
+    .model29{
+      padding-left: 0;
+      
+    }
+    .model18{
+      padding-left: 0;
+  
+      
+    }
+    .model19{
+      padding-left: 0;
+      
+    }
+    
+    .model34{
+      padding-left: 0;
+      
+    }
+    .model53{
+      padding-left: 0;
+      
+    }
+    .model52{
+      padding-left: 0;
+      
+    }
+    .model47{
+      padding-left: 0;
+      
+    }
+    .model3{
+      padding-left: 0;
+      
+      
+    }
+    .model4{
+      padding-left: 0;
+      
+    }
+    .model90{
+      margin-right: 0.5%;
+  
+    }
+   
+  
+  }
+    
+  
+  
+  
+  /* Footer Styling */
+  .footer-wrapper {
+    background-color: #f5f5f7;
+    color: #86868b;
+    font-size: 0.7em;
+  }
+  .footer-wrapper ul {
+    list-style: none;
+    padding-bottom: 10px;
+    padding-inline-start: 0px;
+  }
+  .footer-wrapper ul a {
+    color: #515154;
+  }
+  .my-apple-wrapper {
+    padding-bottom: 15px;
+    margin-top: 10px;
+  }
+  .copyright {
+    margin-top: 15px;
+  }
+  .footer-country {
+    margin-top: 8px;
+  }
+  .flag-wrapper {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 5px;
+  }
+  .footer-country-name {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .footer-links-terms ul {
+    display: flex;
+  }
+  .footer-links-terms ul li {
+    padding: 0 10px;
+    border-right: 1px solid #d2d2d7;
+  }
+  .footer-links-terms ul li:first-child {
+    padding-left: 0;
+  }
+  .footer-links-terms ul li:last-child {
+    border-right: 0;
+  }
+  
+  .footer-links-wrapper h3 {
+    font-size: 12px;
+    font-weight: 600;
+    color: #1d1d1f;
+  }
+  .footer-wrapper ul li {
+    padding: 4px 0;
+  }
+  .upper-text-container {
+    border-bottom: 1px solid #d2d2d7;
+    padding: 17px 0 10px;
+    margin-bottom: 20px;
+  }
+  .upper-text-container a {
+    color: #515154;
+  }
+  
+  /*Media Query*/
+  /* Footer */
+  @media (max-width: 768px) {
+    .footer-links-wrapper ul {
+      display: none;
+    }
+    .footer-links-wrapper h3 {
+      padding: 10px 0;
+      border-bottom: 1px solid #ccc;
+    }
+    .footer-links-wrapper h3:after {
+      font-family: "FontAwesome";
+      content: "\f067";
+      padding-left: 10px;
+      position: absolute;
+      right: 25px;
+    }
+  }
+  @media (min-width: 768px) {
+    /*Nav bar*/
+    .nav-item {
+      text-align: center !important;
+      padding: 0;
+      border-bottom: 0px;
+    }
+    /*Footer styling*/
+    .my-apple-wrapper {
+      border-bottom: 1px solid #d2d2d7;
+    }
+  }
+  @media (min-width: 992px) {
+    /*Footer styling*/
+    .copyright {
+      margin-top: 10px;
+    }
+    .footer-country {
+      margin-top: 10px;
+    }
+    .footer-links-terms {
+      margin-top: 10px;
+    }
+  }
+  
